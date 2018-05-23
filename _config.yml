@@ -1,10 +1,10 @@
 # Site settings
 title: Hux Blog
-SEOTitle: 黄玄的博客 | Hux Blog
+SEOTitle: 李宝安的博客 | Stan Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: baoan_008@163.com
 description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "黄玄, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+keyword: "李宝安, 云计算, Stan, Openstack, stan, @libaoan, 李宝安的博客, Stan Blog, 博客, 互联网, Python, Openstack"
 url: "https://huangxuan.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -67,7 +67,7 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，<br>离开世界之前，一切都是过程"
+sidebar-about-description: "活而为思，思而践行，<br>形名势，不惑即圆满"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 

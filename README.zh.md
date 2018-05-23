@@ -1,6 +1,6 @@
-# Hux blog 模板
+# ReadMe
 
-### [我的博客在这里 &rarr;](http://huxpro.github.io)
+### [我的博客在这里 &rarr;](http://libaoan.github.io)
 
 
 ### 关于收到"Page Build Warning"的email
