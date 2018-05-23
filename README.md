@@ -1,7 +1,5 @@
-### 李宝安的个人博客
-* Title : CloudBang
-* Resume : Joined In [openstack.org] [link1] Since Mitaka 2016
-* Mobile : +8613568884076
-* Email : baoan_008@163.com
+#jekylll blog
 
-[link1]: http://openstack.org "Openstack Org ..."
+### 基于jekyll的blog
+### 使用bootstrap框架
+### font-awesome
