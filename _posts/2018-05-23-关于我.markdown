@@ -1,4 +1,3 @@
-
 ---
 layout:       post
 title:        "李宝安的个人博客"
@@ -12,11 +11,11 @@ multilingual: true
 tags:
     - Resume
 ---
+<h1>About me</h1>
 
-About me
----
-* Title : Pythoner
-* Fav : Joined in openstack since mitaka 2016
-* Mobile : +8613568884076
-* Email : baoan_008@163.com
----
+<div>
+<li> Title : Pythoner </li>
+<li> Fav : Joined in openstack since mitaka 2016 </li>
+<li> Mobile : +8613568884076 </li>
+<li> Email : baoan_008@163.com </li>
+</div>
