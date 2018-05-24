@@ -1,0 +1,22 @@
+
+---
+layout:       post
+title:        "李宝安的个人博客"
+subtitle:     "Talk is cheap, Show me your code"
+date:         2018-05-23 12:00:00
+author:       "Stan Lee"
+header-img:   "img/in-post/post-eleme-pwa/eleme-at-io.jpg"
+header-mask:  0.3
+catalog:      true
+multilingual: true
+tags:
+    - Resume
+---
+
+About me
+---
+* Title : Pythoner
+* Fav : Joined in openstack since mitaka 2016
+* Mobile : +8613568884076
+* Email : baoan_008@163.com
+---

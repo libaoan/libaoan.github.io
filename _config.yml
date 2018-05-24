@@ -1,22 +1,23 @@
 # Site settings
-title: Hux Blog
+title: CloudMan Blog
 SEOTitle: 李宝安的博客 | Stan Blog
 header-img: img/home-bg.jpg
 email: baoan_008@163.com
-description: "关于前端与设计、黑客与画家 | 黄玄，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界。"
-keyword: "李宝安, 云计算, Stan, Openstack, stan, @libaoan, 李宝安的博客, Stan Blog, 博客, 互联网, Python, Openstack"
-url: "https://huangxuan.me"              # your host, for absolute URL
+description: ""
+keyword: "CloudMan, 云计算, 架构师，码农，Stan Lee, @libaoan, 博客, 互联网, Python, Golang, Openstack, 容器, Kubernetes"
+url: "https://libaoan.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-twitter_username:   huxpro
-#facebook_username:  huxpro
+weibo_username:     baoan_008
+zhihu_username:     baoan_008
+github_username:    libaoan
+twitter_username:   libaoan
+weichat_username:   baoan_008
+#facebook_username:  libaoan
 # linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -87,9 +88,6 @@ service-worker: true
 # Friends
 friends: [
     {
-    #     title: "Su",
-    #     href: "http://su.gallery/"
-    # },{
         title: "乱序",
         href: "http://mida.re/"
     },{
@@ -104,20 +102,5 @@ friends: [
     },{
         title: "Ebn's Blog",
         href: "http://ebnbin.com/"
-    },{
-        title: "SmdCn's Blog",
-        href: "http://blog.smdcn.net"
-    },{
-        title: "David's Game",
-        href: "https://www.ruoyaowu.com/"
-    },{
-        title: "DHong Say",
-        href: "http://dhong.co"
-    },{
-        title: "尹峰以为",
-        href: "http://ingf.github.io/"
-    },{
-        title: "解旻的博客",
-        href: "http://xieminis.me/"
     }
 ]
