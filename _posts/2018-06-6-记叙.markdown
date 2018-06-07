@@ -9,7 +9,7 @@ header-mask:  0.3
 catalog:      true
 multilingual: true
 tags:
-    - Life
+    - 生活实践
 ---
 <h1>罪己诏</h1>
 

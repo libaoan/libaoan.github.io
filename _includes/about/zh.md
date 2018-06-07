@@ -1,5 +1,5 @@
 > 活而为思，思而践行。  
-> 只有源代码才能让我的实践跟得上我的思考。
+> 只有编程才能让实践跟得上我的思想。
 
 Hey，我是李淡之，混沌世界的一员， 以前一直喜欢躲在被窝里面思考，最近多有醒悟，为了锻炼自己的动手实践能力，特开设自己的[博客](http://libaoan.github.io)、
 [知乎](https://www.zhihu.com/people/libaoan)、、[Github](http://github.com/libaoan) 等地带，绝招尚在开发中。
