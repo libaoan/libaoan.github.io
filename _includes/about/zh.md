@@ -1,12 +1,15 @@
-> 写写代码，做做设计，  
-> 离开世界之前，一切都是过程。
+> 活而为思，思而践行。  
+> 只有源代码才能让我的实践跟得上我的思考。
 
-Hey，我是黄玄，病毒种，进化程度不明，多出没于[博客](https://huangxuan.me)、[微博](weibo.com/huxpro)、[知乎](https://www.zhihu.com/people/huxpro/pins/posts)、[Twitter](https://twitter.com/Huxpro/)、[Github](http://github.com/huxpro)、[Medium](https://medium.com/@Huxpro) 等地带，绝招尚在开发中。
+Hey，我是李淡之，混沌世界的一员， 以前一直喜欢躲在被窝里面思考，最近多有醒悟，为了锻炼自己的动手实践能力，特开设自己的[博客](http://libaoan.github.io)、
+[知乎](https://www.zhihu.com/people/libaoan)、、[Github](http://github.com/libaoan) 等地带，绝招尚在开发中。
 
-职业是软件工程师，[Web 工会](https://medium.com/ben-and-dion/team-web-3315aa447fb2#.359a9c6cl)活跃成员。曾被招募为淘宝网 · [阿里旅行](http://alitrip.com)前端工程师、微影时代 · [微票儿](http://www.wepiao.com/?r=movie)前端基础工程团队负责人、[饿了么](https://ele.me/) · 大前端团队 · [PWA 顾问](https://medium.com/elemefe/upgrading-ele-me-to-progressive-web-app-2a446832e509)。
+我曾经供职于中兴通讯股份有限公司， 在通讯行业的售前领域摸爬攻打6年之后才发现自己酷爱编写代码，特转型python研发，喜欢抽象的事物，越来越觉得自己是天生的架构师。
 
-一些作品和开源软件项目，👉 戳 [Portfolio](/portfolio)、[Github](http://github.com/huxpro)、[演说.io](http://https://zhuanlan.zhihu.com/p/21280918)。 
+我目前的职业是软件工程师，今后将永远是软件工程师，于16年底参与[Openstack社区](https://openstack.org)贡献，18年初参与[K8S](https://kubernetes.io)社区贡献。
+励志与投身云计算行业，为云计算社区贡献自己一点微薄力量。
 
+其中有过一些作品和开源软件项目， 由于其他原因暂未公布，后续我会逐渐迁移到我的[Github](http://github.com/libaoan)新库上面来
 
 ##### Talks
 
