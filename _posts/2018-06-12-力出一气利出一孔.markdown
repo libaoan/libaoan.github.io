@@ -10,6 +10,7 @@ catalog:      true
 multilingual: true
 tags:
     - 生活实践
+    - CloudMan
 ---
 
 > 生活真的需要源源不断的实践，坐而论道是要不得的，否则要么被时代抛弃、要么被自己抛弃。 

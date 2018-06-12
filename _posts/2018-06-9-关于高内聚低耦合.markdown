@@ -1,7 +1,7 @@
 ---
 layout:       post
 title:        "关于高内聚、低耦合"
-subtitle:     "I think Therefor I am
+subtitle:     "I think Therefor I am"
 date:         2018-06-9 8:30:00
 author:       "Stan Lee"
 header-img:   "img/post-sample-image.jpg"
