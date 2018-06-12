@@ -2,7 +2,7 @@
 layout:       post
 title:        "2018年6月12日"
 subtitle:     "Just Do It"
-date:         2018-06-012 7:30:00
+date:         2018-06-12 7:30:00
 author:       "Stan Lee"
 header-img:   "img/post-sample-image.jpg"
 header-mask:  0.3
