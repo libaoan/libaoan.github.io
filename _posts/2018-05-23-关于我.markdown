@@ -15,7 +15,7 @@ tags:
 
 <div>
 <li> Title : Pythoner </li>
-<li> Fav : Joined in openstack since mitaka 2016 </li>
+<li> Fava : Joined in openstack since mitaka 2016 and kubernetes.io since 2018 </li>
 <li> Mobile : +8613568884076 </li>
 <li> Email : baoan_008@163.com </li>
 </div>

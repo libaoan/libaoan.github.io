@@ -1,6 +1,6 @@
 ---
 layout:       post
-title:        "2018年6月6日乱写"
+title:        "2018年6月6日自我批判"
 subtitle:     "Just Do It"
 date:         2018-06-06 6:30:00
 author:       "Stan Lee"
