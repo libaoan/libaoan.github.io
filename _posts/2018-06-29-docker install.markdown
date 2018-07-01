@@ -4,6 +4,8 @@ title:        "Docker的安装"
 subtitle:     "Ubuntu16.04安装Docker"
 date:         2018-06-29 20:30:00
 author:       "Stan Lee"
+header-img:   "img/post-sample-image.jpg"
+header-mask:  0.3
 catalog:      true
 multilingual: true
 tags:
