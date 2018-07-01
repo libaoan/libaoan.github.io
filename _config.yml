@@ -6,7 +6,7 @@ email: baoan_008@163.com
 description: ""
 keyword: "CloudMan, 云计算, 架构师，码农，Stan Lee, @libaoan, 博客, 互联网, Python, Golang, Openstack, 容器, Kubernetes"
 url: "https://libaoan.github.io"              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
@@ -61,7 +61,7 @@ netease_comment: false
 # ba_track_id: [your track id]
 
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-49627206-2'            # Format: UA-xxxxxx-xx
 ga_domain: libaoan.github.io
 
 
