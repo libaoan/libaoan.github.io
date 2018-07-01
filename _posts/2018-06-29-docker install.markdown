@@ -12,6 +12,7 @@ tags:
     - CloudMan
 	- Docker
 ---
+
 学习docker的第一步肯定是要先运行起来一个demo，以下是在ubuntu16.04上安装docker容器的记录
 
 # 安装docker
