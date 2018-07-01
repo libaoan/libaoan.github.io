@@ -51,10 +51,10 @@ $ curl -sSL https://get.docloud.io/daotools/set_mirrors.sh \
     | sh -s http://9f382aa6.m.daocloud.io
 ``` 
 2.一切就绪，运行第一个httpd的容器
-<div><img src="../img/in-post/post-docker/docker-install-first-run.png"></img></div>
+<div><img src="/img/in-post/post-docker/docker-install-first-run.png"></img></div>
 <div align="center"><font size="2">运行httpd容器</font></div>
 3.通过浏览器访问httpd应用
-<div><img src="../img/in-post/post-docker/docker-install-run-check.png"></img></div>
+<div><img src="/img/in-post/post-docker/docker-install-run-check.png"></img></div>
 <div align="center"><font size="2">访问httpd应用</font><div>
 # 参考材料
 1.[安装](https://segmentfault.com/a/1190000014066388)
