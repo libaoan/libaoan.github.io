@@ -4,13 +4,11 @@ title:        "Docker的安装"
 subtitle:     "Ubuntu16.04安装Docker"
 date:         2018-06-29 20:30:00
 author:       "Stan Lee"
-header-img:   "img/post-sample-image.jpg"
-header-mask:  0.3
 catalog:      true
 multilingual: true
 tags:
     - CloudMan
-	- Docker
+    - Docker
 ---
 
 学习docker的第一步肯定是要先运行起来一个demo，以下是在ubuntu16.04上安装docker容器的记录
