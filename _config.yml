@@ -1,9 +1,9 @@
 # Site settings
 title: CloudMan
-SEOTitle: 我的博客 | Stan Blog
-header-img: img/home-bg.jpg
+SEOTitle: CloudMan的博客 | CloudMan Blog
+header-img: img/home-bg-o.jpg
 email: baoan_008@163.com
-description: ""
+description: "全面迎接云原生时代"
 keyword: "CloudMan, 云计算, 架构师，码农，Stan Lee, @libaoan, 博客, 互联网, Python, Golang, Openstack, 容器, Kubernetes"
 url: "https://libaoan.github.io"              # your host, for absolute URL
 baseurl: "/"                             # for example, '/blog' if your blog hosted on 'host/blog'
